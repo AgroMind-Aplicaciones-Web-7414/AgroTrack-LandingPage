@@ -158,7 +158,35 @@
                 "company": "Empresa",
                 "legal": "Legal",
                 "copyright": "© 2025 Agromind Todos los derechos reservados.",
-                "made-with": "Hecho con ❤️ por estudiantes de la UPC"
+                "made-with": "Hecho con ❤️ por estudiantes de la UPC",
+
+                // Pricing
+
+                "job-farmer": "Agricultor",
+                "job-agronomist": "Agrónoma",
+                "job-producer": "Productor",
+                "job-specialist": "Especialista Agrícola",
+
+                "price-period": "/mes",
+
+                "plan-1-feature-1": "Registro básico de cultivos",
+                "plan-1-feature-2": "Hasta 3 parcelas y 1 organización",
+                "plan-1-feature-3": "Reportes básicos",
+                "plan-1-feature-4": "Soporte por email",
+
+                "plan-2-feature-1": "Todo lo de AgroStart",
+                "plan-2-feature-2": "Hasta 20 parcelas y 3 organizaciones",
+                "plan-2-feature-3": "Monitoreo en tiempo real",
+                "plan-2-feature-4": "Alertas automáticas",
+                "plan-2-feature-5": "Soporte prioritario",
+
+                "plan-3-feature-1": "Funcionalidades ilimitadas (parcelas y organizaciones sin restricción)",
+                "plan-3-feature-2": "Todo lo de AgroSmart",
+                "plan-3-feature-3": "Asesoría experta",
+                "plan-3-feature-4": "Análisis avanzados",
+                "plan-3-feature-5": "Alertas Climáticas en tiempo real",
+                "plan-3-feature-6": "Soporte 24/7",
+
             },
             en: {
                 // Navigation
@@ -232,7 +260,50 @@
                 "company": "Company",
                 "legal": "Legal",
                 "copyright": "© 2025 Agromind All rights reserved.",
-                "made-with": "Made with ❤️ by UPC students"
+                "made-with": "Made with ❤️ by UPC students",
+
+                "job-farmer": "Farmer",
+                "job-agronomist": "Agronomist",
+                "job-producer": "Producer",
+                "job-specialist": "Agricultural Specialist",
+
+                "price-period": "/month",
+
+                "plan-1-feature-1": "Basic crop registration",
+                "plan-1-feature-2": "Up to 3 plots and 1 organization",
+                "plan-1-feature-3": "Basic reports",
+                "plan-1-feature-4": "Email support",
+
+                "plan-2-feature-1": "Everything from AgroStart",
+                "plan-2-feature-2": "Up to 20 plots and 3 organizations",
+                // Pricing
+                "pricing-title": "Choose the perfect plan for you",
+                "pricing-desc": "Flexible plans designed for farmers and agronomists of all sizes",
+                "plans": "Plans",
+                "most-popular": "Most Popular",
+
+                "plan-1-title": "AgroStart",
+                "plan-1-desc": "Ideal for small farmers looking to digitize their basic records",
+
+                "plan-2-title": "AgroSmart",
+                "plan-2-desc": "Perfect for medium farmers with multiple crops and analysis needs",
+
+                "plan-3-title": "AgroExpert",
+                "plan-3-desc": "Complete solution for large producers and agricultural cooperatives",
+
+                "contact-sales": "Contact sales",
+
+                "plan-2-feature-3": "Real-time monitoring",
+                "plan-2-feature-4": "Automatic alerts",
+                "plan-2-feature-5": "Priority support",
+
+                "plan-3-feature-1": "Unlimited features (plots and organizations without restriction)",
+                "plan-3-feature-2": "Everything from AgroSmart",
+                "plan-3-feature-3": "Expert advice",
+                "plan-3-feature-4": "Advanced analytics",
+                "plan-3-feature-5": "Real-time weather alerts",
+                "plan-3-feature-6": "24/7 support",
+
             }
         };
 
