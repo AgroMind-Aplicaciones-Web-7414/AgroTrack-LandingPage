@@ -6,7 +6,9 @@
     --color-text-light: #666;
     --color-background: #fff;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 * {
     margin: 0;
     padding: 0;
@@ -1083,3 +1085,4 @@ h1 {
         display: none;
     }
 }
+
