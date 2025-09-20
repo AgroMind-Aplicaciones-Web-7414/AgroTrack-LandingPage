@@ -289,3 +289,25 @@
             alert('¡Gracias por tu mensaje! Te contactaremos pronto.');
             contactForm.reset();
         });
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Get all navbar links
+    const navLinks = document.querySelectorAll('.nav-link');
+    
+    navLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Get the target section id from the href
+            const targetId = this.getAttribute('href');
+            const targetSection = document.querySelector(targetId);
+            
+            if (targetSection) {
+                targetSection.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            }
+        });
+    });
+});
